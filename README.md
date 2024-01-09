@@ -13,24 +13,24 @@ This game is a turn-based RPG where you face off against bandits in a quest for 
 ## How to Download and Run the Game - 
 
 ### 1. Download the Game:
-  a. Navigate to the GitHub page for RPG-Video-Game.
+    a. Navigate to the GitHub page for RPG-Video-Game.
   
-  b.  Download the entire repository as a zip file (usually titled RPG-Video-Game.zip).
+    b.  Download the entire repository as a zip file (usually titled RPG-Video-Game.zip).
 ### 2. Run the Game:
-  a. Locate the downloaded zip file on your computer and double-click to open it.
+    a. Locate the downloaded zip file on your computer and double-click to open it.
   
-  b. Find Game.exe within the extracted files and double-click to run it.
+    b. Find Game.exe within the extracted files and double-click to run it.
   
-  c. A terminal window should open, and the game will start after a few seconds.
+    c. A terminal window should open, and the game will start after a few seconds.
 
 ## How to Play
 
 ### 1. Combat Mechanics:
-  a. Click on any of the bandits to attack them.
+    a. Click on any of the bandits to attack them.
   
-  b. The game is turn-based, so wait for both bandits to complete their moves before making your next move.
+    b. The game is turn-based, so wait for both bandits to complete their moves before making your next move.
 ### 2. Health Management:
-  a. You can use a potion during the game to regain some health points.
+    a. You can use a potion during the game to regain some health points.
   
-  b. Note that using a potion will skip your turn.
+    b. Note that using a potion will skip your turn.
 
